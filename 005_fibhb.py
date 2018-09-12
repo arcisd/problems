@@ -61,6 +61,6 @@ def calc_fib_faster(n):
     return F[n]
 
 if __name__ == '__main__':
-    input=sys.stdin.read();
-    n,m=map(int,input.split())
-    print(calc_fib_faster(n%pis_period_comp(m))%m)
+   input=sys.stdin.read();
+   n,m=map(int,input.split())
+   print(calc_fib_faster(n%pis_period_comp(m))%m)
