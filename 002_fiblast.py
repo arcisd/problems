@@ -1,4 +1,4 @@
-# Given an integer n, find the last digit of the nth Fibonacci number F n (that is, F n mod 10).
+# Given an integer n, find the last digit of the nth Fibonacci number F_n (that is, F_n mod 10).
 
 def calc_fib_last(n):
     F=[0,1]
