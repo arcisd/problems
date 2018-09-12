@@ -22,4 +22,8 @@ sequence such that the dot product of a_1,a_2,...,a_n and b_{π_1},b_{π_2},...,
 009. Given a set of n segments {[a_0,b_0],[a_1,b_1],...,[a_{n−1},b_{n−1}]} with integer coordinates on a line, find
 the minimum number m of points such that each segment contains at least one point. That is, find a
 set of integers X of the minimum size such that for any segment [a_i,b_i] there is a point x∈X such
-that a_i≤x≤b_i .
+that a_i≤x≤b_i.
+
+010. The goal of this problem is to represent a given positive integer n as a sum of as many pairwise
+distinct positive integers as possible. That is, to find the maximum k such that n can be written as
+a_1+a_2+···+a_k where a_1,...,a_k are positive integers and a_i\neq a_j for all 1≤i<j≤k.
