@@ -19,7 +19,7 @@ def fast_count_segments(starts,ends,points):
         elif i[1]==0:
            values.append([i[2],count])
         else:
-           count=count-1
+           count-=1
     values.sort()
     return [i[1] for i in values]
 
