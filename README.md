@@ -30,3 +30,14 @@ Some programming problems:
 014. The goal in this problem is to count the number of inversions of a given sequence.
 
 015. In this problem you are given a set of points on a line and a set of segments on a line. The goal is to compute, for each point, the number of segments that contain this point.
+
+016. Given an integer n, compute the minimum number of operations needed to obtain the number n starting from the number 1.
+
+017. In this problem, you are given a set of bars of gold and your goal is to take as much gold as possible into your bag. There is just one copy of each bar and for each bar you can either take it or not (hence you cannot take a fraction of a bar).
+
+018. The goal of this problem is to implement the algorithm for computing the edit distance between two strings.
+
+019. Find the maximum value of an arithmetic expression by specifying the order of applying its arithmetic operations using additional parentheses.
+
+020. Given three sequences A=(a_1,a_2,...,a_n), B=(b_1,b_2,...,b_m), and C=(c_1,c_2,...,c_l), find the length of their longest common subsequence, i.e., the largest non-negative integer p such that there exist indices 1≤i_1<i_2<···<i_p≤n, 1≤j_1<j_2<···<j_p≤m, 1≤k_1<k_2<···<k_p≤l such that a_{i_1}=b_{j_1}=c_{k_1},...,a_{i_p}=b_{j_p}=c_{k_p}.
+
